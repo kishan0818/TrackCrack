@@ -4,7 +4,14 @@
 The **Railway Track Crack Monitoring System** is an AI-powered solution designed to detect cracks and fractures in railway tracks using acoustic wave analysis. By leveraging Raspberry Pi sound sensors, cloud-based processing, and deep learning models, the system provides real-time defect detection, enabling proactive railway maintenance and enhancing safety.
 
 ## Smart India Hackathon Experience
-This project was developed as part of the intra-college **Smart India Hackathon**, where we aimed to create an innovative solution for railway safety. The competition challenged us to integrate hardware and AI-based analysis efficiently, ensuring real-time monitoring. Our participation provided hands-on experience in deploying AI at the edge, optimizing signal processing, and developing a seamless user interface. Through this journey, we collaborated with domain experts, fine-tuned our deep learning model, and overcame real-world implementation challenges.
+
+This project was developed as part of the intra-college Smart India Hackathon, where we set out to build an innovative railway safety solution. Along the way, we faced several technical challenges that shaped our learning experience.
+
+Initially, we struggled with computational power, as our laptop’s GPU wasn’t utilized properly for model training. After discussing this with seniorsc, they suggested running it on Google Colab’s T4 runtime, which significantly improved our training efficiency.
+
+Another major hurdle was that training and prediction were happening together, slowing down the process. We realized that separating these tasks would optimize performance. After experimenting with multiple models, we identified the best-performing one, saved it in .h5 format, and used it exclusively for prediction. This streamlined our workflow and made real-time defect detection much more efficient.
+
+These hands-on challenges helped us refine our approach, optimize our AI pipeline, and gain valuable insights into deploying machine learning models effectively. **As a result we were able to crack the intra-college Smart India Hackathon and got selected for applying to National level Smart India Hackathon**. Our journey throughout this project was such a great experience as working alongside friends is always a fun filled one.
 
 ## Key Features
 - **AI-Based Acoustic Monitoring** – Uses Raspberry Pi sound sensors to capture acoustic waves from railway tracks.  
