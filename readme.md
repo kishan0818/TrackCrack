@@ -33,7 +33,7 @@ Sound Sensors (Raspberry Pi)  →  Cloud Processing  →  Spectrogram Conversion
 - **Mobile App:** Android (Kotlin/Flutter)  
 
 ## Hardware Circuit Diagram
-![Hardware Circuit Diagram](https://github.com/kishan0818/Track_Crack/blob/main/hardware_diagram.png?raw=true)
+![Hardware Circuit Diagram](https://github.com/kishan0818/Track_Crack/blob/main/hardware_circuit_diagram.png?raw=true)
 
 ## Android App Interface
 ![App Screenshot](https://github.com/kishan0818/Track_Crack/blob/main/app_ss.png?raw=true)
