@@ -85,7 +85,7 @@ Sound Sensors (Raspberry Pi)  →  Cloud Processing  →  Spectrogram Conversion
 - **Shailesh S** - [LinkedIn](https://www.linkedin.com/in/shailesh-s-671b65292/) | [GitHub](https://github.com/shailesh-s-04)
   
 ## License
-This project is licensed under the **MIT License**.
+This project is licensed under the **CC0 1.0 Universal**.
 
 Feel free to star this repository if you find it useful.
 
